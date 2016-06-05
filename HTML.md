@@ -1,8 +1,8 @@
 # HTML
 
-*   [HTTP Introduction](http-introduction.html)
-*   [HTTP Style Guide](http-style-guide.html)
-*   [HTTP Tags](http-tags.html)
+*   [HTTP Introduction](http-introduction.md)
+*   [HTTP Style Guide](http-style-guide.md)
+*   [HTTP Tags](http-tags.md)
 
 
 ## TODO
