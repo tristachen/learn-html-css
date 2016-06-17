@@ -20,8 +20,11 @@
 *   Device orientation
 *   Speech input
 *   SSE
-*   Accessibility
+*   Accessibility -- 無障礙設計
 *   Audio video -- 影片和音樂的播放
 *   Canvas -- 2D繪圖功能
 *   Canvas 3D -- 3D繪圖功能
 *   SVG -- 新向量圖格式
+*   apis
+*   聲音、麥克風
+*   SEO
