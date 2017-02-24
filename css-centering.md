@@ -40,7 +40,7 @@ HTML
       <div class="inner"></div>
     </div>
 
-CSS
+CSS 1
     .outer {
       position: relative;
       width: 200px;
@@ -60,6 +60,23 @@ CSS
       background-color: #9E9E9E;
     }
 
+CSS 2
+    .outer {
+      position: relative;
+      width: 200px;
+      height: 200px;
+      background-color: gray;
+    }
+
+    .inner {
+      position: absolute;
+      margin: -25px 0 0 -25px;
+      top: 50%;
+      left: 50%;
+      width: 100px;
+      height: 100px;
+      background-color: red;
+    }
 ## Line Height - Only for inline text
 
 HTML
